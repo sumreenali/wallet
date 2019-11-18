@@ -1,0 +1,14 @@
+.biggerbtn {
+
+        min-height: 48px !important;
+        font-weight: 400;
+        line-height: 1.5em !important;
+
+    }
+
+    .ui.button img {
+        float: left;
+        margin-right: 8px;
+    }
+
+.left20 {margin-left:20px !important;}
