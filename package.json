@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.1",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "qrcode": "^1.4.4",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
